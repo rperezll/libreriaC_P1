@@ -33,7 +33,7 @@
 													//fgets(buf, 1024, stdin) Espera a que el usuario introduzca una 
 													//linea para comenzar la iteración, stdin es como el scanner de java (entrada por teclado)
 		{
-			strcat(p1_char,buf); // Preguntar si usar strcat en lugar de strcopy!!!
+			strcat(p1_char,buf); 
 			total++;
 		}
 
